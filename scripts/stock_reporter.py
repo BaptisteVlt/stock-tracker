@@ -23,9 +23,9 @@ logging.basicConfig(
 # Email configuration
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-SENDER_EMAIL = "stocksnotification64@gmail.com" # Replace
-SENDER_PASSWORD = "zidquytjmvkxyepg" # Replace
-RECIPIENT_EMAIL = "baptistev91@gmail.com" # Replace
+SENDER_EMAIL = "sender64@gmail.com" # Replace
+SENDER_PASSWORD = "senderpwd" # Replace
+RECIPIENT_EMAIL = "recipient@gmail.com" # Replace
 
 def get_stock_evolution():
     """Calculate stock price evolution since the start of the day"""
