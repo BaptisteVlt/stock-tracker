@@ -2,6 +2,9 @@
 
 This project is an automated stock tracking system built on AWS. It fetches stock prices at regular intervals and sends periodic email reports summarizing stock performance.
 
+## Example
+Here is an example of the mail that the code send everyday
+![Stock Tracker Mail Example](./mail_example.png)
 ## Architecture
 
 ![Stock Tracker AWS Architecture](./architecture.svg)
